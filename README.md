@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**BaluIT-ist/BaluIT-ist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>	
+  <summary><b>⭐ About me</b></summary>
+  
+* Good problem solving skills
+* Coding and debugging.
+* Editing source-code.
+* Extremely organised with a high level of attention to details
+* Profiling and analyzing algorithms.
+* Goal-oriented mindset
+* Ambitious, hard working, energetic and reliable
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I have the ability to work independently as well as being part of a team*
+  
+  </details>
