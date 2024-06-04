@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+#### <p>💻🕹️Main goal : to become a full time game developer <br>Pasional soul looking to become a great GameDev🕹️ <br>best version of herself.</p>
 <details>	
   <summary><b>⭐ About me</b></summary>
   
