@@ -12,3 +12,16 @@
 * Great in a team,even greater going solo
   
   </details>
+
+  ## ⚡Stats:
+<details>
+  <summary><b>Stats Details</b></summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaluIT-ist&hide=prs,issues&count_private=true&show_icons=true&theme=aura_dark" />
+  <br>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenisaXXIV&theme=aura_dark" />
+</a>
+  </details>
+
