@@ -42,13 +42,14 @@
 <a href="https://code.visualstudio.com/"><img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" width="36" height="36" alt="MySQL" /></a>
 <a href="https://visualstudio.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="36" height="36" alt="MySQL" /></a>
 <a href="https://unity.com/"><img src="https://icon2.cleanpng.com/20180523/kwt/avqcpne6k.webp" width="36" height="36" alt="MySQL" /></a>
-
-## Office
-
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2AHf56PgtOoa_JLI1I7DJORRu5NR5sJf-Q&s" width="36" height="36" alt="MySQL" /></a>
 <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_PowerPoint_2013-2019_logo.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2170px-Microsoft_Word_2013-2019_logo.svg.png" width="36" height="36" alt="MySQL" /></a>
 <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LibreOffice_logo.svg/1024px-LibreOffice_logo.svg.png" width="36" height="36" alt="MySQL" /></a>
+
+
+
+
 
 ## Editing
 <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-XHjZPjTZnnC3J9ZgKJTD_P6yfmdl8VSwmA&s" width="36" height="36" alt="MySQL" /></a>
