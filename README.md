@@ -1,6 +1,7 @@
 ## Hi there 👋 Im Dan 🤗 / Balu 🐻
 
 #### <p>🕹️Main goal : to become a full time game developer🕹️<br>🕹️Pasional soul looking to become a great coleague to a big and beatiful team🕹️<br>🕹️Striving to become the best version of myself🕹️</p>
+**My GitLab:** [![GitLab](https://img.shields.io/badge/Visit_Full_Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/dashboard/projects)
 <details>	
   <summary><b>🎮 About me 🎮 <----- Click Here ! </b></summary>
   
